@@ -9,12 +9,6 @@ public class MenuSystem : MonoBehaviour
         SceneManager.LoadScene("Tienda"); // nombre exacto de la escena del juego
     }
 
-    // Cargar la escena de ajustes
-    public void Ajustes()
-    {
-        SceneManager.LoadScene("Ajustes"); // nombre exacto de la escena de ajustes
-    }
-
     // Salir del juego
     public void Salir()
     {
