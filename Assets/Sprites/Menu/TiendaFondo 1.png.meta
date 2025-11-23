@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: e3009cadf27c1fe45a6fa696f8e1974b
+guid: b5d4c0b258066ab48b4438b5e535f611
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 955182194332121547
-    second: Tienda_0
+      213: -2183826537238250673
+    second: TiendaFondo 1_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Tienda_0
+      name: TiendaFondo 1_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 800
-        height: 600
+        width: 1024
+        height: 747
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bc9b1fc152d714d00800000000000000
-      internalID: 955182194332121547
+      spriteID: f4bb7d4b55d71b1e0800000000000000
+      internalID: -2183826537238250673
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Tienda_0: 955182194332121547
+      TiendaFondo 1_0: -2183826537238250673
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
