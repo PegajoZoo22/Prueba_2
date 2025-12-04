@@ -25,7 +25,7 @@ public class AjustesBrillo : MonoBehaviour
 
     public void ChangeSlider(float valor)
     {
-        sliderValue = valor;
+        sliderValue = valor+5;
         PlayerPrefs.SetFloat("brillo", sliderValue);
         PanelBrillo.color = new Color(PanelBrillo.color.r, PanelBrillo.color.g, PanelBrillo.color.b, slider.value);
     }
